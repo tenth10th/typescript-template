@@ -1,0 +1,3 @@
+# TypeScript Starter Repo
+
+A template starter repository for TypeScript projects, including a testing framework...
